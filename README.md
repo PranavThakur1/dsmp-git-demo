@@ -1,2 +1,2 @@
 # dsmp-git-demo
- demo repository
+ demo repository git github and open source
